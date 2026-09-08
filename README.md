@@ -9,7 +9,7 @@
 
 [![JavaScript](https://img.shields.io/badge/Javascript-FFE70B?logo=Javascript&logoColor=fff)](https://javascript.com)
 [![TypeScript](https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff)](https://www.typescriptlang.org)
-[![Java](https://img.shields.io/badge/Java-E61F24.svg?logo=java&logoColor=fff)](https://java.com)
+[![Java](https://img.shields.io/badge/Java-E61F24.svg?logo=openjdk&logoColor=fff)](https://java.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=fff)](https://kotlinlang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://python.org)
 [![Node.js](https://img.shields.io/badge/Node.js-026E00?logo=node.js&logoColor=fff)](https://nodejs.org)
