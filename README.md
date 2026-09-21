@@ -29,4 +29,4 @@
 - Bilibili: [Aether_255](https://space.bilibili.com/650545272) 
 - Github: [Aether_254](https://github.com/Aether-254)
 - AetherAC: [AetherAC](https://aetherac.abnt.it)
-- Mail: [Mail to Aether_254](mailto:_aether_254@abnt.it)
+- Mail: [Mail to Aether_254](mailto:484029294@qq.com)
