@@ -30,14 +30,21 @@
 - Github: [Aether_254](https://github.com/Aether-254)
 - AetherAC: [AetherAC](https://aetherac.abnt.it)
 - Mail: [Mail to Aether_254](mailto:484029294@qq.com)
-- LINUX.DO: https://linux.do/u/aether254
+- LINUX.DO: <https://linux.do/u/aether254>
 
 ## Sponsor
 
 The same EVM-compatible address is used across BEP20 and ERC20 networks:
 
-- **BEP20 / ERC20 (EVM):** `0xB3FA2CF8cD7cc234e83c175E3E4D0E8c29DE6ABD`
-  - [BSCScan](https://bscscan.com/address/0xB3FA2CF8cD7cc234e83c175E3E4D0E8c29DE6ABD)
-  - [Etherscan](https://etherscan.io/address/0xB3FA2CF8cD7cc234e83c175E3E4D0E8c29DE6ABD)
-- **TRC20:** `TPZMjnFayEZdem7DjdFHPYWyUaSpoLL9uY` [Tronscan](https://tronscan.org/#/address/TPZMjnFayEZdem7DjdFHPYWyUaSpoLL9uY)
-- **BTC:** `1BoHHi3va2nAi3CeGZtqeeWZiQwg2F6zkW` [Mempool](https://mempool.space/address/1BoHHi3va2nAi3CeGZtqeeWZiQwg2F6zkW)
+* **BEP20 / ERC20 (EVM):** `0xB3FA2CF8cD7cc234e83c175E3E4D0E8c29DE6ABD`
+* [BSCScan](https://bscscan.com/address/0xB3FA2CF8cD7cc234e83c175E3E4D0E8c29DE6ABD)
+* [Etherscan](https://etherscan.io/address/0xB3FA2CF8cD7cc234e83c175E3E4D0E8c29DE6ABD)
+
+
+* **TRC20:** `TPZMjnFayEZdem7DjdFHPYWyUaSpoLL9uY` [Tronscan](https://tronscan.org/#/address/TPZMjnFayEZdem7DjdFHPYWyUaSpoLL9uY)
+* **BTC:** `1BoHHi3va2nAi3CeGZtqeeWZiQwg2F6zkW` [Mempool](https://mempool.space/address/1BoHHi3va2nAi3CeGZtqeeWZiQwg2F6zkW)
+
+> [!NOTE]
+> **Notice:**
+> The address above is shared with my automated payment gateway (Aether Pay), which uses **decimal places** to distinguish and reconcile individual transaction orders.
+> If you are sending a **direct sponsorship** rather than paying for an API order, **please transfer a clean integer amount** (e.g., `10`, `50`, `100`) to avoid triggering automated order matching. Thank you for your support! ☕✨
