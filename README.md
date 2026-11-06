@@ -31,3 +31,8 @@
 - AetherAC: [AetherAC](https://aetherac.abnt.it)
 - Mail: [Mail to Aether_254](mailto:484029294@qq.com)
 - LINUX.DO: https://linux.do/u/aether254
+
+## Sponsor
+- **BEP20 / ERC20:** [`0xB3FA2CF8cD7cc234e83c175E3E4D0E8c29DE6ABD`](https://bscscan.com/address/0xB3FA2CF8cD7cc234e83c175E3E4D0E8c29DE6ABD)
+- **TRC20:** [`TPZMjnFayEZdem7DjdFHPYWyUaSpoLL9uY`](https://tronscan.org/#/address/TPZMjnFayEZdem7DjdFHPYWyUaSpoLL9uY)
+- **BTC:** [`1BoHHi3va2nAi3CeGZtqeeWZiQwg2F6zkW`](https://mempool.space/address/1BoHHi3va2nAi3CeGZtqeeWZiQwg2F6zkW)
